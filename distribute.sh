@@ -12,7 +12,7 @@
 #  devices+=($address)
 #done
 
-devices=("tomsy@172.16.89.5,train_1.xlsx,test_1.xlsx" "tomsy@172.16.64.54,train_2.xlsx,test_2.xlsx" "cirmlab@172.16.88.248,train_3.xlsx,test_3.xlsx")
+devices=("tomsy@172.16.89.5,train_1_102.csv,test_1_44.csv" "tomsy@172.16.64.54,train_2_170.csv,test_2_73.csv" "cirmlab@172.16.88.248,train_3_244.csv,test_3_105.csv")
 
 # Read in the location to save the file
 #echo "Enter the location to save the file in collabs:"
@@ -24,7 +24,7 @@ save_location=$1
 
 # Loop through devices and copy the file to each one
 for device in "${devices[@]}"; do
-  scp envoy/`cut -d"," -f2 <<<$device` `cut -d"," -f1 <<<$device`:$1
-  scp envoy/`cut -d"," -f3 <<<$device` `cut -d"," -f1 <<<$device`:$1
+  scp  `cut -d"," -f2 <<<$device` `cut -d"," -f1 <<<$device`:$1
+  scp  `cut -d"," -f3 <<<$device` `cut -d"," -f1 <<<$device`:$1
 #  echo `cut -d"," -f2 $device` $device:$save_location
 done
