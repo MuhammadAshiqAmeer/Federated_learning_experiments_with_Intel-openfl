@@ -1,0 +1,45 @@
+TARGET USI,Gender,Age at Diagnosis in Days,Event Free Survival Time in Days,Vital Status,Overall Survival Time in Days,INSS Stage,MYCN status,Ploidy Value,Histology,MKI,COG Risk Group
+TARGET-30-PALZRG,Female,577,422,Dead,580,Stage 4,Amplified,1.16,Unfavorable,High,High Risk
+TARGET-30-PALZSL,Male,1564,2606,Alive,2606,Stage 4,Amplified,1.68,Unfavorable,Intermediate,High Risk
+TARGET-30-PALZZV,Female,699,1494,Alive,1934,Stage 4,Amplified,1.79,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMAFV,Male,303,4067,Alive,4067,Stage 1,Not Amplified,1.46,Favorable,Low,Low Risk
+TARGET-30-PAMAJT,Female,105,2744,Alive,2744,Stage 1,Not Amplified,1.21,Favorable,Low,Low Risk
+TARGET-30-PAMBAC,Male,945,2842,Alive,2842,Stage 4,Amplified,1.13,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMBDH,Male,797,4774,Alive,4774,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAMBMJ,Male,954,449,Dead,491,Stage 4,Amplified,1.39,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMBYG,Male,614,332,Dead,332,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAMCJD,Male,733,774,Dead,1638,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMCXF,Male,765,376,Dead,718,Stage 4,Amplified,1.17,Unfavorable,High,High Risk
+TARGET-30-PAMFBR,Male,1626,5189,Alive,5189,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMHDM,Male,960,301,Dead,424,Stage 4,Not Amplified,1.37,Unfavorable,Low,High Risk
+TARGET-30-PAMHPN,Female,1075,3864,Alive,3864,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMIZA,Female,946,4207,Alive,4207,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAMKBM,Male,41,1232,Alive,1232,Stage 1,Not Amplified,1.66,Favorable,Low,Low Risk
+TARGET-30-PAMKHK,Female,314,3828,Alive,3828,Stage 1,Not Amplified,1.54,Favorable,Low,Low Risk
+TARGET-30-PAMLCS,Male,1643,87,Dead,87,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMLMY,Female,952,2593,Alive,2593,Stage 4,Not Amplified,1.24,Unfavorable,High,High Risk
+TARGET-30-PAMLNB,Male,6,1880,Alive,1880,Stage 1,Not Amplified,1.18,Favorable,Low,Low Risk
+TARGET-30-PAMLWV,Female,1820,1093,Dead,1111,Stage 4,Not Amplified,1.04,Unfavorable,Low,High Risk
+TARGET-30-PAMMFV,Female,1129,570,Dead,1210,Stage 4,Not Amplified,1.99,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMMWD,Male,812,351,Dead,409,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMMXF,Male,1661,140,Dead,197,Stage 4,Amplified,1.07,Unfavorable,Low,High Risk
+TARGET-30-PAMMYR,Male,1548,659,Dead,1169,Stage 4,Not Amplified,1.18,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMNAL,Female,1235,4499,Alive,4499,Stage 4,Not Amplified,1.55,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMNVX,Male,742,4536,Alive,4536,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAMPCU,Male,872,4543,Alive,4543,Stage 4,Not Amplified,1.18,Unfavorable,High,High Risk
+TARGET-30-PAMPFJ,Female,596,292,Dead,345,Stage 4,Amplified,1.24,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMRKH,Female,1202,1108,Dead,1858,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMRZD,Male,1009,5488,Alive,5488,Stage 4,Amplified,1.4,Unfavorable,High,High Risk
+TARGET-30-PAMTBI,Male,1526,5354,Alive,5354,Stage 4,Not Amplified,1.52,Unfavorable,High,High Risk
+TARGET-30-PAMTUV,Male,4795,1223,Dead,1223,Stage 4,Not Amplified,2.02,Unfavorable,High,High Risk
+TARGET-30-PAMTZV,Female,902,389,Dead,437,Stage 4,Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMUFZ,Male,1489,699,Dead,1166,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAMUIJ,Male,1018,301,Dead,301,Stage 4,Amplified,1.22,Unfavorable,High,High Risk
+TARGET-30-PAMVAG,Male,663,22,Dead,22,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMVCL,Female,87,2387,Alive,2387,Stage 1,Not Amplified,1.57,Favorable,Low,Low Risk
+TARGET-30-PAMVLG,Male,1978,678,Dead,1540,Stage 4,Not Amplified,1.05,Unfavorable,Low,High Risk
+TARGET-30-PAMXYK,Male,1157,764,Dead,959,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMXYU,Female,185,2552,Alive,2552,Stage 1,Not Amplified,1.28,Favorable,Low,Low Risk
+TARGET-30-PAMYCE,Female,1059,392,Dead,995,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAMYCK,Male,958,4109,Alive,4109,Stage 4,Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAMYPK,Male,1374,371,Dead,597,Stage 4,Not Amplified,2.07,Unfavorable,Low,High Risk

@@ -1,0 +1,173 @@
+TARGET USI,Gender,Age at Diagnosis in Days,Event Free Survival Time in Days,Vital Status,Overall Survival Time in Days,INSS Stage,MYCN status,Ploidy Value,Histology,MKI,COG Risk Group
+TARGET-30-PAUITU,Male,352,421,Dead,478,Stage 4,Amplified,1.84,Unfavorable,High,High Risk
+TARGET-30-PAUIWS,Female,925,2757,Alive,2757,Stage 4,Not Amplified,1.78,Unfavorable,Intermediate,High Risk
+TARGET-30-PAUJLH,Male,1042,442,Dead,750,Stage 4,Amplified,1.51,Unfavorable,High,High Risk
+TARGET-30-PAUJPC,Male,770,2423,Alive,2423,Stage 4,Not Amplified,2.09,Unfavorable,High,High Risk
+TARGET-30-PAUJRW,Female,944,402,Dead,473,Stage 3,Amplified,2.08,Unfavorable,High,High Risk
+TARGET-30-PAUKAP,Male,1273,2360,Alive,2360,Stage 4,Amplified,1.68,Unfavorable,High,High Risk
+TARGET-30-PAUKAW,Female,506,2475,Alive,2475,Stage 4,Amplified,1.32,Favorable,Low,High Risk
+TARGET-30-PAUKLK,Male,979,2718,Alive,2718,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUKRF,Male,759,2452,Alive,2452,Stage 4,Amplified,1.88,Unfavorable,High,High Risk
+TARGET-30-PAUKVC,Female,663,2390,Alive,2390,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAULMT,Female,1280,610,Dead,2672,Stage 4,Not Amplified,1.41,Unfavorable,Intermediate,High Risk
+TARGET-30-PAULNF,Female,1061,437,Dead,906,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAULVH,Male,307,438,Alive,2383,Stage 4,Amplified,1.1,Unfavorable,High,High Risk
+TARGET-30-PAUMBB,Male,825,208,Dead,208,Stage 4,Not Amplified,2.37,Unfavorable,Intermediate,High Risk
+TARGET-30-PAUMMZ,Female,1507,1166,Alive,2516,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUMUC,Female,1727,780,Alive,780,Stage 3,Amplified,1.9,Unfavorable,High,High Risk
+TARGET-30-PAUNST,Female,139,2443,Alive,2443,Stage 4s,Not Amplified,1.5,Favorable,Low,Low Risk
+TARGET-30-PAUNWR,Female,959,2600,Alive,2600,Stage 4,Not Amplified,1.72,Unfavorable,Low,High Risk
+TARGET-30-PAUPDY,Male,1630,1580,Alive,1580,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUPGV,Male,1276,1143,Dead,1954,Stage 4,Not Amplified,1.18,Unfavorable,Intermediate,High Risk
+TARGET-30-PAUPRN,Female,942,325,Dead,490,Stage 4,Not Amplified,1.89,Unfavorable,Intermediate,High Risk
+TARGET-30-PAURCG,Female,227,400,Dead,580,Stage 4,Amplified,1.97,Unfavorable,High,High Risk
+TARGET-30-PAURPL,Female,3456,1081,Dead,1552,Stage 4,Not Amplified,1.47,Unfavorable,Intermediate,High Risk
+TARGET-30-PAURUR,Female,674,572,Dead,583,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAURYJ,Male,11,2460,Alive,2460,Stage 4s,Not Amplified,1.24,Favorable,Low,Low Risk
+TARGET-30-PAURZH,Female,1515,170,Dead,364,Stage 4,Not Amplified,1.81,Unfavorable,High,High Risk
+TARGET-30-PAUSJB,Female,549,2528,Alive,2528,Stage 4,Not Amplified,2.03,Unfavorable,Low,High Risk
+TARGET-30-PAUSXH,Female,475,2319,Alive,2319,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUTKJ,Female,429,20,Dead,20,Stage 4,Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAUTKP,Male,609,1432,Alive,1432,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUTLP,Male,469,54,Dead,54,Stage 4,Amplified,1.23,Unfavorable,High,High Risk
+TARGET-30-PAUTVX,Male,1420,2283,Alive,2283,Stage 3,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUUHD,Female,1857,1108,Alive,2178,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUVVE,Male,147,1723,Alive,1723,Stage 4s,Not Amplified,1.28,Favorable,Low,Low Risk
+TARGET-30-PAUWDK,Female,1493,2366,Alive,2366,Stage 2b,Not Amplified,1.17,Unfavorable,Low,Low Risk
+TARGET-30-PAUWED,Female,325,1119,Dead,1119,Stage 2b,Not Amplified,1.19,Favorable,Intermediate,Intermediate Risk
+TARGET-30-PAUWEV,Female,149,1111,Alive,1111,Stage 2b,Not Amplified,1.21,Favorable,Low,Low Risk
+TARGET-30-PAUWXY,Male,146,2091,Alive,2091,Stage 4,Not Amplified,1.15,Favorable,Low,Intermediate Risk
+TARGET-30-PAUWYM,Female,621,2145,Alive,2145,Stage 4,Amplified,1.8,Unfavorable,High,High Risk
+TARGET-30-PAUXFZ,Male,159,2215,Alive,2215,Stage 2b,Not Amplified,1.33,Favorable,Low,Low Risk
+TARGET-30-PAUXIW,Female,822,973,Dead,1818,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUXSZ,Male,5787,2079,Alive,2079,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAUXUP,Male,1685,2388,Alive,2388,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAUYDE,Male,2078,1177,Dead,2387,Stage 4,Not Amplified,1.15,Unfavorable,Low,High Risk
+TARGET-30-PAUYXX,Female,489,435,Alive,1834,Stage 3,Not Amplified,1.35,Favorable,Low,Intermediate Risk
+TARGET-30-PAUZAE,Male,1276,2233,Alive,2233,Stage 4,Not Amplified,1.55,Unfavorable,High,High Risk
+TARGET-30-PAUZMG,Male,185,1204,Alive,1204,Stage 4,Not Amplified,1.23,Favorable,Intermediate,Intermediate Risk
+TARGET-30-PAUZRC,Female,195,2333,Alive,2333,Stage 4,Not Amplified,1,Favorable,Low,Intermediate Risk
+TARGET-30-PAUZTF,Female,58,2353,Alive,2353,Stage 4,Not Amplified,1.19,Favorable,Low,Intermediate Risk
+TARGET-30-PAUZZI,Female,726,2297,Alive,2297,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAVABN,Female,502,2030,Alive,2030,Stage 3,Amplified,2.2,Unfavorable,High,High Risk
+TARGET-30-PAVALS,Female,554,1934,Alive,1934,Stage 3,Not Amplified,1.65,Unfavorable,Low,High Risk
+TARGET-30-PAVAYF,Male,2997,2197,Alive,2197,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAVCGD,Female,1198,527,Dead,527,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAVCHH,Female,1243,2274,Alive,2274,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAVCKK,Female,2508,1394,Dead,1394,Stage 4,Not Amplified,1.69,Unfavorable,Intermediate,High Risk
+TARGET-30-PAVDBS,Female,1212,475,Dead,863,Stage 4,Amplified,1.24,Unfavorable,High,High Risk
+TARGET-30-PAVDGG,Male,661,181,Dead,181,Stage 4,Amplified,1.5,Unfavorable,High,High Risk
+TARGET-30-PAVDPE,Male,1147,233,Alive,233,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAVDYS,Male,24,1876,Alive,1876,Stage 2b,Not Amplified,1.32,Favorable,Low,Low Risk
+TARGET-30-PAVEKN,Female,2054,508,Dead,508,Stage 4,Not Amplified,1.91,Unfavorable,Intermediate,High Risk
+TARGET-30-PAVETV,Male,1101,725,Alive,725,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAVEZM,Female,2517,1960,Alive,1960,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAIDJS,Male,298,4191,Alive,4191,Stage 1,Not Amplified,1.34,Favorable,Low,Low Risk
+TARGET-30-PAIEFC,Female,605,34,Dead,34,Stage 4,Amplified,0.96,Unfavorable,High,High Risk
+TARGET-30-PAIPUD,Male,659,1843,Alive,1843,Stage 4,Not Amplified,1,Favorable,Low,High Risk
+TARGET-30-PAIPVH,Male,1740,358,Alive,2936,Stage 4,Not Amplified,1.06,Unfavorable,Intermediate,High Risk
+TARGET-30-PAIRDP,Female,895,135,Dead,410,Stage 4,Amplified,1.09,Unfavorable,High,High Risk
+TARGET-30-PAIRIK,Male,594,2894,Alive,2894,Stage 4,Not Amplified,1.08,Unfavorable,Low,High Risk
+TARGET-30-PAIRLD,Male,1715,596,Dead,596,Stage 4,Not Amplified,1.06,Unfavorable,Intermediate,High Risk
+TARGET-30-PAIRLN,Male,854,2828,Alive,2828,Stage 4,Amplified,1.1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAITCI,Male,728,232,Dead,324,Stage 4,Not Amplified,1.92,Favorable,Low,High Risk
+TARGET-30-PAITRM,Female,1499,1836,Dead,1836,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAITZV,Male,1689,2147,Alive,2147,Stage 4,Not Amplified,1.77,Unfavorable,High,High Risk
+TARGET-30-PAIUJB,Female,549,703,Dead,703,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAIVHE,Male,1123,672,Dead,1605,Stage 4,Not Amplified,1.06,Unfavorable,Low,High Risk
+TARGET-30-PAIVMJ,Male,202,2359,Alive,2359,Stage 1,Not Amplified,1.7,Favorable,Intermediate,Low Risk
+TARGET-30-PAIVZR,Female,1227,404,Dead,787,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAIWEH,Male,1078,2213,Alive,2213,Stage 4,Not Amplified,1.5,Unfavorable,High,High Risk
+TARGET-30-PAIWHU,Male,242,3678,Alive,3678,Stage 1,Not Amplified,1.48,Favorable,Intermediate,Low Risk
+TARGET-30-PAIWZA,Male,292,5216,Alive,5216,Stage 1,Not Amplified,1.75,Favorable,Intermediate,Low Risk
+TARGET-30-PAIXBP,Male,832,1073,Alive,1073,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PAIXFZ,Female,60,1955,Alive,1955,Stage 4s,Not Amplified,1,Favorable,Low,Intermediate Risk
+TARGET-30-PAIXHH,Male,38,4011,Alive,4011,Stage 1,Not Amplified,1.52,Favorable,Intermediate,Low Risk
+TARGET-30-PAIXLC,Male,270,5048,Alive,5048,Stage 1,Not Amplified,1.94,Favorable,Intermediate,Low Risk
+TARGET-30-PAIXNC,Male,723,607,Dead,607,Stage 4,Not Amplified,1.13,Unfavorable,Intermediate,High Risk
+TARGET-30-PAIXNV,Female,644,2133,Alive,2133,Stage 4,Not Amplified,1.58,Unfavorable,Intermediate,High Risk
+TARGET-30-PAIXRK,Male,564,144,Dead,1368,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAKPNF,Male,79,4454,Alive,4454,Stage 1,Not Amplified,1.25,Favorable,Low,Low Risk
+TARGET-30-PAKRKL,Female,515,3143,Alive,3143,Stage 1,Not Amplified,1.12,Favorable,Low,Low Risk
+TARGET-30-PAKSFV,Male,796,6154,Alive,6154,Stage 4,Not Amplified,2.07,Unfavorable,High,High Risk
+TARGET-30-PAKSWB,Male,156,4998,Alive,4998,Stage 1,Not Amplified,1.28,Favorable,Low,Low Risk
+TARGET-30-PAKUXT,Male,971,491,Dead,731,Stage 4,Not Amplified,1,Favorable,Low,High Risk
+TARGET-30-PAKVUY,Male,1482,4855,Alive,4855,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAKWCJ,Female,392,4773,Alive,4773,Stage 1,Not Amplified,1.47,Favorable,Low,Low Risk
+TARGET-30-PAKWMT,Female,1359,922,Dead,1548,Stage 4,Not Amplified,1.38,Unfavorable,Intermediate,High Risk
+TARGET-30-PAKXDZ,Female,828,614,Dead,1115,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PAKYMV,Female,652,3957,Alive,3957,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PAKYRJ,Male,102,4614,Alive,4614,Stage 1,Not Amplified,1.47,Favorable,Intermediate,Low Risk
+TARGET-30-PAKZMI,Female,770,192,Dead,192,Stage 4,Amplified,1.42,Unfavorable,High,High Risk
+TARGET-30-PAKZRE,Female,1083,456,Dead,463,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALAKM,Female,1758,2820,Dead,2846,Stage 4,Not Amplified,1.06,Unfavorable,Low,High Risk
+TARGET-30-PALAWZ,Male,1338,956,Dead,956,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PALAYH,Female,1171,5146,Alive,5146,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALBFV,Female,1500,152,Dead,315,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALBFW,Male,804,611,Dead,1073,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PALBUY,Female,1053,6170,Alive,6170,Stage 4,Amplified,1.21,Unfavorable,High,High Risk
+TARGET-30-PALCBW,Female,679,4565,Alive,4565,Stage 4,Not Amplified,1,Favorable,Low,High Risk
+TARGET-30-PALCCY,Male,821,592,Dead,684,Stage 4,Amplified,1.99,Unfavorable,High,High Risk
+TARGET-30-PALDJW,Male,1772,615,Dead,796,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALEAC,Male,66,4263,Alive,4263,Stage 1,Not Amplified,1.19,Favorable,Low,Low Risk
+TARGET-30-PALEBK,Male,19,3792,Alive,3792,Stage 1,Not Amplified,1.5,Favorable,Low,Low Risk
+TARGET-30-PALEEK,Male,848,981,Dead,1131,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALEND,Male,737,345,Dead,353,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALETP,Female,1466,251,Dead,251,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALEVG,Male,666,5356,Alive,5356,Stage 4,Amplified,1.3,Unfavorable,Intermediate,High Risk
+TARGET-30-PALFIT,Male,1428,636,Dead,944,Stage 4,Not Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALFSE,Male,200,2873,Alive,2873,Stage 1,Not Amplified,1.33,Favorable,Low,Low Risk
+TARGET-30-PALGGL,Female,791,5172,Alive,5172,Stage 4,Not Amplified,1.15,Unfavorable,High,High Risk
+TARGET-30-PALHCB,Female,386,4408,Alive,4408,Stage 1,Not Amplified,1.37,Favorable,Low,Low Risk
+TARGET-30-PALHHG,Male,886,766,Dead,1692,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALHTR,Female,956,883,Alive,883,Stage 4,Amplified,1.76,Unfavorable,High,High Risk
+TARGET-30-PALHVD,Female,1634,347,Dead,433,Stage 4,Not Amplified,1.17,Unfavorable,Intermediate,High Risk
+TARGET-30-PALIIN,Male,1279,684,Dead,1395,Stage 4,Not Amplified,1.2,Unfavorable,High,High Risk
+TARGET-30-PALJPF,Male,1502,565,Alive,4153,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALJPX,Male,860,38,Dead,38,Stage 4,Amplified,1.94,Unfavorable,High,High Risk
+TARGET-30-PALJVX,Male,1635,1493,Dead,2836,Stage 4,Not Amplified,1.12,Unfavorable,Low,High Risk
+TARGET-30-PALJXU,Female,366,2585,Alive,2585,Stage 1,Not Amplified,1.33,Favorable,Low,Low Risk
+TARGET-30-PALJZV,Male,1800,5155,Alive,5155,Stage 4,Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALKBP,Female,5,3538,Alive,3538,Stage 1,Not Amplified,1.54,Favorable,Low,Low Risk
+TARGET-30-PALKER,Female,1238,5031,Alive,5031,Stage 4,Not Amplified,1.18,Unfavorable,Intermediate,High Risk
+TARGET-30-PALKKV,Male,283,2613,Alive,2613,Stage 1,Not Amplified,1.52,Favorable,Low,Low Risk
+TARGET-30-PALKUC,Female,823,4399,Alive,4399,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALKXJ,Female,10,637,Alive,637,Stage 4s,Not Amplified,2.63,Favorable,Low,Low Risk
+TARGET-30-PALLJJ,Female,388,3355,Alive,3355,Stage 1,Not Amplified,1.55,Favorable,Low,Low Risk
+TARGET-30-PALNFE,Female,551,4622,Alive,4622,Stage 1,Not Amplified,1.67,Favorable,Low,Low Risk
+TARGET-30-PALNLU,Male,1439,538,Dead,954,Stage 4,Not Amplified,1.49,Unfavorable,Low,High Risk
+TARGET-30-PALNMX,Female,1607,4679,Alive,4679,Stage 4,Not Amplified,1.77,Unfavorable,Low,High Risk
+TARGET-30-PALNVP,Female,1155,4936,Alive,4936,Stage 4,Not Amplified,1.44,Unfavorable,Low,High Risk
+TARGET-30-PALPIN,Male,46,2155,Alive,2155,Stage 1,Not Amplified,1.56,Favorable,Low,Low Risk
+TARGET-30-PALPKZ,Male,1157,1566,Dead,2103,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PALPSY,Female,307,2679,Alive,2679,Stage 1,Not Amplified,1.7,Favorable,Low,Low Risk
+TARGET-30-PALRFJ,Female,709,2536,Alive,2536,Stage 4,Not Amplified,1.48,Unfavorable,High,High Risk
+TARGET-30-PALRIA,Male,685,4080,Alive,4080,Stage 1,Not Amplified,1.9,Favorable,Low,Low Risk
+TARGET-30-PALSAE,Male,782,598,Dead,656,Stage 4,Not Amplified,2,Unfavorable,Low,High Risk
+TARGET-30-PALTEG,Male,1367,523,Dead,551,Stage 4,Not Amplified,1.96,Unfavorable,Intermediate,High Risk
+TARGET-30-PALTYB,Female,1536,232,Dead,232,Stage 4,Not Amplified,1,Favorable,Low,High Risk
+TARGET-30-PALTYS,Female,720,1727,Dead,2195,Stage 4,Amplified,1,Unfavorable,High,High Risk
+TARGET-30-PALUDH,Female,1105,4306,Alive,4306,Stage 4,Not Amplified,1.89,Unfavorable,Intermediate,High Risk
+TARGET-30-PALURF,Male,1002,4803,Alive,4803,Stage 4,Not Amplified,1.08,Unfavorable,Low,High Risk
+TARGET-30-PALUYS,Female,1214,693,Dead,1284,Stage 4,Not Amplified,1.14,Unfavorable,High,High Risk
+TARGET-30-PALVDR,Male,20,1114,Alive,1114,Stage 1,Not Amplified,1.69,Favorable,Low,Low Risk
+TARGET-30-PALVFV,Female,1133,933,Dead,1497,Stage 4,Not Amplified,1.07,Unfavorable,Intermediate,High Risk
+TARGET-30-PALVUC,Male,194,4368,Alive,4368,Stage 1,Not Amplified,1.31,Favorable,Low,Low Risk
+TARGET-30-PALVVH,Male,219,2183,Alive,2183,Stage 1,Not Amplified,1.53,Favorable,Low,Low Risk
+TARGET-30-PALWBT,Male,399,2637,Alive,2637,Stage 1,Not Amplified,1.78,Favorable,Low,Low Risk
+TARGET-30-PALWIP,Male,1232,748,Dead,809,Stage 4,Not Amplified,1.23,Unfavorable,Low,High Risk
+TARGET-30-PALWRG,Male,138,2691,Alive,2691,Stage 1,Not Amplified,1.37,Favorable,Intermediate,Low Risk
+TARGET-30-PALWSJ,Female,12,4136,Alive,4136,Stage 1,Not Amplified,1.32,Favorable,Low,Low Risk
+TARGET-30-PALWVJ,Male,1544,417,Dead,803,Stage 4,Not Amplified,1.88,Unfavorable,Intermediate,High Risk
+TARGET-30-PALWXP,Male,70,2510,Alive,2510,Stage 1,Not Amplified,1.35,Favorable,Low,Low Risk
+TARGET-30-PALXHW,Female,1131,569,Dead,1408,Stage 4,Not Amplified,1,Unfavorable,Intermediate,High Risk
+TARGET-30-PALXMM,Male,1475,1924,Dead,2434,Stage 4,Not Amplified,1.28,Unfavorable,Low,High Risk
+TARGET-30-PALXRL,Male,1530,822,Alive,1607,Stage 4,Not Amplified,1.27,Unfavorable,High,High Risk
+TARGET-30-PALXTB,Male,635,4621,Alive,4621,Stage 4,Not Amplified,1.92,Unfavorable,Low,High Risk
+TARGET-30-PALXTE,Female,45,2916,Alive,2916,Stage 1,Not Amplified,1.25,Favorable,Low,Low Risk
+TARGET-30-PALXUM,Female,20,1638,Alive,1638,Stage 1,Not Amplified,1.12,Favorable,Low,Low Risk
+TARGET-30-PALYEC,Male,1240,74,Dead,159,Stage 4,Amplified,1.17,Unfavorable,High,High Risk
+TARGET-30-PALYLZ,Male,488,3083,Alive,3083,Stage 1,Not Amplified,1.64,Favorable,Intermediate,Low Risk
+TARGET-30-PALZBH,Male,1390,824,Dead,824,Stage 4,Not Amplified,1,Unfavorable,Low,High Risk
+TARGET-30-PALZHF,Male,16,126,Alive,4318,Stage 1,Not Amplified,1.35,Favorable,Intermediate,Low Risk
+TARGET-30-PALZRB,Male,1687,4012,Alive,4012,Stage 4,Amplified,1.32,Unfavorable,High,High Risk
