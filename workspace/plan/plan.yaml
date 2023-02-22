@@ -35,8 +35,8 @@ collaborator:
   template: openfl.component.Collaborator
 data_loader:
   settings:
-    train_bs: 10
-    valid_bs: 10
+    train_bs: 100
+    valid_bs: 100
   template: openfl.federated.DataLoader
 network:
   settings:
