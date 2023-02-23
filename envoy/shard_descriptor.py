@@ -106,7 +106,7 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         f.close()
         
         # Preprocessing
-        df["Gender"]=df["Gender"].replace({"Male":1,"Female":0})
+        #df["Gender"]=df["Gender"].replace({"Male":1,"Female":0})
         df["Vital Status"]=df["Vital Status"].replace({"Dead":0,"Alive":1})
         df["INSS Stage"]=df["INSS Stage"].replace({"Stage 1":0,"Stage 2a":1,"Stage 2b":2,"Stage 3":3,"Stage 4":4,"Stage 4s":5,})
         df["MYCN status"]=df["MYCN status"].replace({"Not Amplified":0,"Amplified":1})
@@ -116,7 +116,7 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         df["Overall Survival Time in Years"] = round(df["Overall Survival Time in Days"]/365,0)
         df["Age at Diagnosis in years"] = round(df["Age at Diagnosis in Days"]/365,0)
         df["Event Free Survival Time in years"] = round(df["Event Free Survival Time in Days"]/365,0)
-        x=df.drop(['Vital Status','TARGET USI','Overall Survival Time in Days','Gender','Event Free Survival Time in Days','Age at Diagnosis in Days'],axis=1)
+        x=df.drop(['Vital Status','Overall Survival Time in Days','Event Free Survival Time in Days','Age at Diagnosis in Days'],axis=1)
         y=df['Vital Status']
 
         df_t= pd.read_csv("test_t.csv",header=0,usecols=list1) 
@@ -127,13 +127,13 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         df_t["INSS Stage"]=df_t["INSS Stage"].replace({"Stage 1":0,"Stage 2a":1,"Stage 2b":2,"Stage 3":3,"Stage 4":4,"Stage 4s":5,})
         df_t["MYCN status"]=df_t["MYCN status"].replace({"Not Amplified":0,"Amplified":1})
         df_t["Histology"]=df_t["Histology"].replace({"Favorable":0,"Unfavorable":1})
-        df_t["Gender"]=df_t["Gender"].replace({"Male":1,"Female":0})
+        #df_t["Gender"]=df_t["Gender"].replace({"Male":1,"Female":0})
         df_t["MKI"]=df_t["MKI"].replace({"Low":0,"High":1,"Intermediate":2})
         df_t["COG Risk Group"]=df_t["COG Risk Group"].replace({"Low Risk":0,"Intermediate Risk":1,"High Risk":2})
         df_t["Overall Survival Time in Years"] = round(df_t["Overall Survival Time in Days"]/365,0)
         df_t["Age at Diagnosis in years"] = round(df_t["Age at Diagnosis in Days"]/365,0)
         df_t["Event Free Survival Time in years"] = round(df_t["Event Free Survival Time in Days"]/365,0)
-        x_t=df_t.drop(['Vital Status','TARGET USI','Overall Survival Time in Days','Gender','Event Free Survival Time in Days','Age at Diagnosis in Days'],axis=1)
+        x_t=df_t.drop(['Vital Status','Overall Survival Time in Days','Event Free Survival Time in Days','Age at Diagnosis in Days'],axis=1)
         y_t=df_t['Vital Status']
 
         from sklearn.preprocessing import StandardScaler
