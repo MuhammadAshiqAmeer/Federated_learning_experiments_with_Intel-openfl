@@ -1,0 +1,45 @@
+{
+	"mapping":[
+	      
+		{
+			"global" : "Age at Diagnosis in Days",
+			"local" : "Field 2"
+		},
+		{
+			"global" : "Event Free Survival Time in Days",
+			"local" : "Field 3"
+		},
+		{
+			"global" : "Vital Status",
+			"local" : "D/A"
+		},
+		{
+			"global" : "Overall Survival Time in Days",
+			"local" : "Field 3"
+		},
+		{
+			"global" : "INSS Stage",
+			"local" : "Stage"
+		},
+		{
+			"global" : "MYCN status",
+			"local" : "MYCN"
+		},
+		{
+			"global" : "Ploidy Value",
+			"local" : "Field 4"
+		},
+		{
+			"global" : "Histology",
+			"local" : "Hist"
+		},
+		{
+			"global" : "MKI",
+			"local" : "Field 5"
+		},
+		{
+			"global" : "COG Risk Group",
+			"local" : "COG"
+		}
+	]
+}
