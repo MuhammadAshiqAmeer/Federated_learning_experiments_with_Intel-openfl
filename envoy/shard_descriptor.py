@@ -83,7 +83,7 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         """Load and prepare dataset."""
 
         # Opening JSON file
-        f = open('map.json')
+        f = open('map_1.json')
   
         # returns JSON object as 
         # a dictionary
@@ -101,7 +101,7 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         mappings=mappings[:-1]
         mappings+="}"
 
-        df = pd.read_csv("train_t.csv",header=0,usecols=list1) 
+        df = pd.read_csv("./dataset_feature_mapping/train_1_172.csv",header=0,usecols=list1) 
         df.rename(columns=json.loads(mappings),inplace=True)
         f.close()
         
@@ -119,7 +119,7 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         x=df.drop(['Vital Status','Overall Survival Time in Days','Event Free Survival Time in Days','Age at Diagnosis in Days'],axis=1)
         y=df['Vital Status']
 
-        df_t= pd.read_csv("test_t.csv",header=0,usecols=list1) 
+        df_t= pd.read_csv("./dataset_feature_mapping/test_1_74.csv",header=0,usecols=list1) 
         df_t.rename(columns=json.loads(mappings),inplace=True)
         f.close()
 

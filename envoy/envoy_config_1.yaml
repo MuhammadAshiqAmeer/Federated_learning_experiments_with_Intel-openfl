@@ -23,5 +23,4 @@ optional_plugin_components: {}
 
 shard_descriptor:
   template: shard_descriptor.neuroblastomaShardDescriptor
-  params:
-    rank_worldsize: 1, 3
+ 
