@@ -15,7 +15,7 @@
 		},
 		{
 			"global" : "Overall Survival Time in Days",
-			"local" : "Field 3"
+			"local" : "Field 4"
 		},
 		{
 			"global" : "INSS Stage",
@@ -27,7 +27,7 @@
 		},
 		{
 			"global" : "Ploidy Value",
-			"local" : "Field 4"
+			"local" : "Field 5"
 		},
 		{
 			"global" : "Histology",
@@ -35,7 +35,7 @@
 		},
 		{
 			"global" : "MKI",
-			"local" : "Field 5"
+			"local" : "Field 6"
 		},
 		{
 			"global" : "COG Risk Group",
