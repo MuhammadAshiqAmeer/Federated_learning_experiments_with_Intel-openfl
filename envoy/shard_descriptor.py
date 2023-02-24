@@ -13,7 +13,7 @@ It is recommended to perform tensor manipulations using numpy.
 from typing import List, Tuple
 import logging
 import pandas as pd
-import json
+import json,yaml
 import os
 from typing import List
 import tensorflow as tf
@@ -81,8 +81,12 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
     @staticmethod
     def load_prepare_data() -> Tuple[tf.data.Dataset]:
         """Load and prepare dataset."""
-
-        # Opening JSON file
+        
+        # Read the configuration file for mandatory fields
+        with open('mandatory_fields.yaml', 'r') as f:
+                  config = yaml.safe_load(f)
+                  
+        # Opening JSON file for mapping
         f = open('map_1.json')
   
         # returns JSON object as 
@@ -104,6 +108,11 @@ class neuroblastomaShardDescriptor(ShardDescriptor):
         df = pd.read_csv("./dataset_feature_mapping/train_1_172.csv",header=0,usecols=list1) 
         df.rename(columns=json.loads(mappings),inplace=True)
         f.close()
+        
+        # Check if all mandatory fields are present
+        if not all(field in df.columns for field in config['mandatory_fields']):
+                raise ValueError('Some mandatory fields are missing')
+    
         
         # Preprocessing
         #df["Gender"]=df["Gender"].replace({"Male":1,"Female":0})
