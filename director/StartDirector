@@ -2,7 +2,7 @@
 
 devices=("tomsy@172.16.89.5" "tomsy@172.16.64.54" "cirmlab@172.16.88.248")
 
-echo "Enter the location to save the mandatory fields in collaborators:"
+echo "Enter the location to save the mandatory_fields.yaml in collaborators:"
 read save
 
 for device in "${devices[@]}"; do
