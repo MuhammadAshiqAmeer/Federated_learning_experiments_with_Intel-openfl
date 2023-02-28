@@ -1,0 +1,11 @@
+mandatory_fields:
+  - Vital Status
+  - INSS Stage
+  - MYCN status
+  - Histology
+  - MKI
+  - COG Risk Group
+  - Overall Survival Time in Days
+  - Age at Diagnosis in Days
+  - Event Free Survival Time in Days
+  
