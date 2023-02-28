@@ -15,7 +15,7 @@ if [ $? -eq 0 ]; then
   read director_fqdn
   echo 'Director listening port No :'
   read port
-  fx envoy start -n $envoy_name --disable-tls --envoy-config-path $envoy_config.yaml -dh $director_fqdn -dp $port
+  fx envoy start -n $envoy_name --disable-tls --envoy-config-path $envoy_config -dh $director_fqdn -dp $port
 else
   # Do something else if mandatory fields are missing
   echo "Some mandatory fields are missing !"
