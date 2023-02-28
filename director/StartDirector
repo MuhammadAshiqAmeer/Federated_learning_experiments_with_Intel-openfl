@@ -1,0 +1,15 @@
+#! /bin/bash
+
+devices=("tomsy@172.16.89.5" "tomsy@172.16.64.54" "cirmlab@172.16.88.248")
+
+echo "Enter the location to save the mandatory fields in collaborators:"
+read save
+
+for device in "${devices[@]}"; do
+	scp mandatory_fields.yaml $device:$save
+	
+echo 'Name of director configuration file :'
+read director_config
+
+
+fx director start --disable-tls -c $director_config.yaml
