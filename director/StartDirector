@@ -6,8 +6,8 @@ echo "Enter the location to save the mandatory fields in collaborators:"
 read save
 
 for device in "${devices[@]}"; do
-	scp mandatory_fields.yaml $device:$save
-	
+    scp mandatory_fields.yaml $device:$save
+done	
 echo 'Name of director configuration file :'
 read director_config
 
