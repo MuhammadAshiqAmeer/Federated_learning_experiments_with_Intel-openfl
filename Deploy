@@ -4,9 +4,12 @@ cat > Dockerfile <</
 FROM intel/openfl
 RUN pip install tensorflow==2.8 pillow
 /
+
 # Build an image from Dockerfile
-docker build -t lmfl .
+docker build -t IMAGE_NAME .
+
 # Create a container and mount the workspace
-docker create -it -v $(pwd):/lm_fl_experiment --name flcontainer lmfl
+docker create -it -v PATH_TO_WORKSPACE_DIR --name CONTAINER_NAME IMAGE_NAME
+
 # Start the container
-docker start -i -a flcontainer
+docker start -i -a CONTAINER_NAME
